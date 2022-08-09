@@ -1,6 +1,18 @@
 # Hi there 👋 Welcome  
 # My name's Vineeth 
-I currently have an experience of 2 years in the professional industry as a Frontend Developer. Have an eye for detail to create robust web applications. Enjoys working on CLI but love building creative and effective UI for better UX
+
+I love the F1, the guitar and have an eye on every detail I could find in the UI. As fancy as the UI can get, sometimes I believe, it's better to be simple.
+
+🔭 I’m currently working on my Portfolio using multiple technologies such as HTML, CSS, JS, JQuery, Angular etc.
+
+🌱 I’m currently learning React.
+
+👯 I’m looking to collaborate on UI fixes on the products I'm using. (Like PrimeNG)
+
+🤔 I’m looking for help with Data Science in Medical field.
+
+💬 Ask me about F1, FRIENDS, Sports.
+
 ---
 **Social Sites:**  
 [![GitHub](http://img.shields.io/badge/Follow-Follow?style=social&logo=github)](https://github.com/vinnyab28)
